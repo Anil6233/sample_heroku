@@ -82,4 +82,4 @@ production:
   <<: *default
   database: sample_heroku_production
   username: sample_heroku
-  password: <%= ENV['SAMPLE_HEROKU_DATABASE_PASSWORD'] %>
+  password: 13F61a0504
